@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Universidade",
+        "icon": "U",
+        "link": "https://www.ubi.pt"
+    },
+    {
+        "name": "HUB",
+        "icon": "H",
+        "link": "https://github.com"
+    },
+    {
+        "name": "Coolors",
+        "icon": "C",
+        "link": "https://coolors.co"
+    },
+    {
+        "name": "Spotify",
+        "icon": "S",
+        "link": "https://spotify.com"
+    },
+    {
+        "name": "Tailwind",
+        "icon": "T",
+        "link": "https://tailwindcss.com"
+    },
+    {
+        "name": "Chat GPT",
+        "icon": "G",
+        "link": "https://chat.openai.com"
+    },
+    {
+        "name": "Wix.com",
+        "icon": "W",
+        "link": "https://wix.com"
+    },
+    {
+        "name": "Whatsapp",
+        "icon": "W",
+        "link": "https://web.whatsapp.com"
+    },
+    {
+        "name": "Meet L",
+        "icon": "M",
+        "link": "https://meet.google.com"
+    }
+]
