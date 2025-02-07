@@ -1,47 +1,92 @@
 [
     {
-        "name": "Universidade",
-        "icon": "U",
-        "link": "https://www.ubi.pt"
+      "name": "Universidade",
+      "icon": "U",
+      "link": "https://www.ubi.pt",
+      "index": 0
     },
     {
-        "name": "HUB",
-        "icon": "H",
-        "link": "https://github.com"
+      "name": "HUB",
+      "icon": "H",
+      "link": "https://github.com",
+      "index": 1
     },
     {
-        "name": "Coolors",
-        "icon": "C",
-        "link": "https://coolors.co"
+      "name": "Coolors",
+      "icon": "C",
+      "link": "https://coolors.co",
+      "index": 2
     },
     {
-        "name": "Spotify",
-        "icon": "S",
-        "link": "https://spotify.com"
+      "name": "Spotify",
+      "icon": "S",
+      "link": "https://spotify.com",
+      "index": 3
     },
     {
-        "name": "Tailwind",
-        "icon": "T",
-        "link": "https://tailwindcss.com"
+      "name": "Tailwind",
+      "icon": "T",
+      "link": "https://tailwindcss.com",
+      "index": 4
     },
     {
-        "name": "Chat GPT",
-        "icon": "G",
-        "link": "https://chat.openai.com"
+      "name": "Chat GPT",
+      "icon": "G",
+      "link": "https://chat.openai.com",
+      "index": 5
     },
     {
-        "name": "Wix.com",
-        "icon": "W",
-        "link": "https://wix.com"
+      "name": "Wix.com",
+      "icon": "W",
+      "link": "https://wix.com",
+      "index": 6
     },
     {
-        "name": "Whatsapp",
-        "icon": "W",
-        "link": "https://web.whatsapp.com"
+      "name": "Whatsapp",
+      "icon": "W",
+      "link": "https://web.whatsapp.com",
+      "index": 7
     },
     {
-        "name": "Meet L",
-        "icon": "M",
-        "link": "https://meet.google.com"
+      "name": "Meet L",
+      "icon": "M",
+      "link": "https://meet.google.com",
+      "index": 8
+    },
+    {
+      "name": "SoundCloud",
+      "icon": "S",
+      "link": "https://soundcloud.com/you/likes",
+      "index": 9
+    },
+    {
+      "name": "Gamma",
+      "icon": "G",
+      "link": "https://gamma.app/",
+      "index": 10
+    },
+    {
+      "name": "Fontawesome",
+      "icon": "F",
+      "link": "https://fontawesome.com/v4/icons/",
+      "index": 11
+    },
+    {
+      "name": "DeepSeek",
+      "icon": "D",
+      "link": "https://chat.deepseek.com/",
+      "index": 12
+    },
+    {
+      "name": "Youtube",
+      "icon": "Y",
+      "link": "https://www.youtube.com/",
+      "index": 13
+    },
+    {
+      "name": "Sims Cheats",
+      "icon": "S",
+      "link": "https://www.alalasims.com/the-sims-4/cheats/#Habilidades",
+      "index": 14
     }
-]
+  ]
